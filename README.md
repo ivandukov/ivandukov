@@ -5,13 +5,13 @@
 ### Languages and Tools:
 
 #### 🤔 Stuff that I have done something with: 
-React, Typescript, PHP8 (typed and linted), Symfony, Laravel(not alot), xUnit, Java(not spring/boot), Gitlab CI/CD (gitlab superior platform imo), C++ (not proud on this one), PostgreSQL, MariaDB, ElasticSearch, CSS (Less), Python, Pimcore and stuff I don't remember
+React, Typescript, PHP8 (typed and linted), Symfony, Laravel(hate it), xUnit, Java(not spring/boot), Gitlab CI/CD (gitlab superior platform imo), C++ (not proud on this one), PostgreSQL, MariaDB, ElasticSearch, CSS (Less), Python, Pimcore, kubernetes, MongoDB
 
-#### 🌱 Stuff I want to know: 
-Golang, Rust,  more Typescript stuff I guess.
+#### 🌱 Stuff I want to know more about: 
+Golang, Rust, Kotlin and TS(C# also sounds cool)
 
 #### ⚡ Not interested in or something else:
-Javascript, C, something without types, random oldschool js frontend frameworks????
+Javascript, C , js frontend frameworks, old php codebases
 
 
 
