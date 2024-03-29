@@ -25,6 +25,10 @@ React, Typescript, PHP8 (typed and linted), Symfony, Laravel(hate it),Chakra UI,
 - Server administration or network configuration
 
 
+#### Stats for all the lurkers
+
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivandukov&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/Sabo2k?tab=repositories#gh-dark-mode-only)
+
 <!--
 **ivandukov/ivandukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
