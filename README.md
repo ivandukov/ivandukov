@@ -8,21 +8,21 @@ My name is Ivan and I am mostly a back-end developer, who actually likes doing f
 ### Languages and Tools:
 
 #### 🤔 Stuff that I have done something with (mostly professionaly): 
-React, Typescript, PHP8 (typed and linted), Symfony, Laravel(hate it),Chakra UI, Ubuntu, xUnit, Java(not spring/boot), Gitlab CI/CD (gitlab superior platform imo), C++ (not proud on this one), PostgreSQL, MariaDB, ElasticSearch, CSS (Less), Python, Pimcore, Kubernetes(little bit), MongoDB, Golang, IBM MQ, HP NonStop, ARM Assembly 
+React, Typescript, PHP8 (typed and linted), Symfony, Laravel(hate it),Chakra UI, Ubuntu, xUnit, Java(not spring/boot), Gitlab CI/CD (gitlab superior platform imo), C++ (not proud on this one), PostgreSQL, MariaDB, ElasticSearch, CSS (Less), Python, Pimcore, Kubernetes, MongoDB, Golang, IBM MQ, HP NonStop, ARM Assembly, Kafka, Jenkins, Clickhouse, Nginx, Terraform, AWS (not everything tho)
 
 #### 🌱 Topics/Stuff that I am interested in/want to learn more about:
-- More of Golang, Rust, Kotlin, Typescript(C#)
-- Microservice infrastructure (event driven with Apache Kafka)
+- More of Golang, Rust, Kotlin(Java works too), Typescript or maybe even C#.
+- Cloud system design 
 - Observability (OpenTelemetry)
-- Kubernetes
-- Infrastructure as code and cool ways to deploy stuff
-- AWS or the other two top cloud platforms
+- DevOps stuff like IaC, Kubernetes, cool ways to monitor and deploy stuff
+- Cool front end stuff with React & Chakra UI
+- Top cloud providers
 
 #### ⚡ Not interested in:
 - Random Javascript frameworks
 - PHP projects which have no types / use magic laravel shit / under version 8
 - C (maybe it's not so bad as I remember)
-- Server administration or network configuration
+- Network configuration because i am bad at it
 
 
 #### Stats for all the lurkers
