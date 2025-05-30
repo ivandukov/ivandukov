@@ -1,29 +1,36 @@
-## Greetings!
+# Greetings!
 
 ![CodingShiba](shibapicture.png)
 
+Hi, I'm Ivan — a backend-focused software engineer who enjoys dabbling in front-end work from time to time. I'm currently based in the Rhein-Main region in Germany, where I also studied computer science.
 
-My name is Ivan and I am mostly a back-end developer, who actually likes doing front-end some of the time. I am currently based in the Rhein-Main region in Germany, where I also studied. When I am not crafting top software(lmao), you can find me either playing guitar or creating music. Sometimes I also run and do fitness, but that's because the nature of the IT world I guess.
+By day, I work on scalable, maintainable systems using modern back-end stacks and cloud infrastructure. By night (and sometimes lunch breaks), I'm either playing guitar, making music, or doing some fitness because, well, balance is important — especially in IT.
 
-### Languages and Tools:
+### My vibe
+- Experienced full-stack engineer with a strong focus on backend development, microservices, and cloud-native architecture.
+- I’ve built and optimized payment systems, designed resilient data pipelines, and delivered scalable features across various tech stacks.
+- I'm a big fan of clean code, pragmatic solutions, and strong team communication.
+- I take an **AI-first approach** to development — using LLMs and automation wherever they make things faster or cleaner.
 
-#### 🤔 Stuff that I have done something with (mostly professionaly): 
-React, Typescript, PHP8 (typed and linted), Symfony, Laravel(hate it),Chakra UI, Ubuntu, xUnit, Java(not spring/boot), Gitlab CI/CD (gitlab superior platform imo), C++ (not proud on this one), PostgreSQL, MariaDB, ElasticSearch, CSS (Less), Python, Pimcore, Kubernetes, MongoDB, Golang, IBM MQ, HP NonStop, ARM Assembly, Kafka, Jenkins, Clickhouse, Nginx, Terraform, AWS (not everything tho)
+### 🛠️ Languages & Tools I’ve Worked With
+**Professionally (or significantly):**
+`React`, `TypeScript`, `PHP 8 (typed + linted)`, `Symfony`, `Laravel (not a fan)`, `Chakra UI`, `Ubuntu`, `Java`, `GitLab CI/CD`, `PostgreSQL`, `MariaDB`, `ElasticSearch`, `Python`, `Pimcore`, `Kubernetes`, `MongoDB`, `Golang`, `IBM MQ`, `HP NonStop`, `Kafka`, `Jenkins`, `Clickhouse`, `Nginx`, `Terraform`, `AWS`, `C++` (regretfully), `ARM Assembly`, `Angular`,
 
-#### 🌱 Topics/Stuff that I am interested in/want to learn more about:
-- More of Golang, Rust, Kotlin(Java works too), Typescript or maybe even C#.
-- Cloud system design 
-- Observability (OpenTelemetry)
-- DevOps stuff like IaC, Kubernetes, cool ways to monitor and deploy stuff
-- Cool front end stuff with React & Chakra UI
-- Top cloud providers
+### Currently Exploring / Interested In
+- Golang, NestJS, Kotlin, C#, Java(hm) 
+- AI tooling: autonomous agents, LLM workflows, prompt chaining, performance-focused AI integration
+- Observability: metrics, tracing (OpenTelemetry)
+- DevOps: Infrastructure as Code, advanced Kubernetes usage, progressive delivery strategies
+- Frontend: modern React and design systems like Chakra UI
+- Cloud system design: multi-cloud strategies, service meshes, distributed architecture patterns
+- Management and leadership: technical decision-making, scaling dev teams, improving collaboration and delivery pipelines
 
-#### ⚡ Not interested in:
-- Random Javascript frameworks
-- PHP projects which have no types / use magic laravel shit / under version 8
-- C (maybe it's not so bad as I remember)
-- Network configuration because i am bad at it
 
+### Not My Thing
+- Laravel projects with magic, no types, or legacy PHP (< v8)
+- Random, hype-based JavaScript frameworks
+- C (unless someone convinces me it’s actually not that bad)
+- Super advanced network configuration (I just never got good at it)
 
 <!--
 **ivandukov/ivandukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
