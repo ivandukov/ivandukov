@@ -12,7 +12,7 @@ By day, I work on scalable, maintainable systems using modern back-end stacks an
 - I'm a big fan of clean code, pragmatic solutions, and strong team communication.
 - I take an **AI-first approach** to development — using LLMs and automation wherever they make things faster or cleaner.
 
-### 🛠️ Languages & Tools I’ve Worked With
+### Languages & Tools I’ve Worked With
 **Professionally (or significantly):**
 `React`, `TypeScript`, `PHP 8 (typed + linted)`, `Symfony`, `Laravel (not a fan)`, `Chakra UI`, `Ubuntu`, `Java`, `GitLab CI/CD`, `PostgreSQL`, `MariaDB`, `ElasticSearch`, `Python`, `Pimcore`, `Kubernetes`, `MongoDB`, `Golang`, `IBM MQ`, `HP NonStop`, `Kafka`, `Jenkins`, `Clickhouse`, `Nginx`, `Terraform`, `AWS`, `C++` (regretfully), `ARM Assembly`, `Angular`,
 
